@@ -1,5 +1,7 @@
 # Python Clean Code Guidelines
 
+![Python Clean Code Guide Banner](image.png)
+
 This is a short guide titled "Python Clean Code Guidelines", prepared for Python developers (especially those working in the field of artificial intelligence). The content is based on personal experience as well as insights from friends and reputable sources. Its goal is to help write readable, maintainable, professional code that follows best practices. There is always room for improvement, and suggestions are warmly welcomed. It is obvious that the most ideal recommendations may not always be feasible, yet adhering to them brings undeniable benefits.
 
 ## Table of Contents
