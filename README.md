@@ -464,6 +464,6 @@ def calculate_discount(price: float, discount_percent: float) -> float:
 
 - When adding a new component or similar to a project, ensure there's a Code Reviewer. Having your code reviewed before it reaches the Development stage means it gets to production faster, with smoother transitions and less time wasted on fixes.
 
----
-
-**Built with ❤️**
+<p align="center">
+  <b>Made with ❤️</b>
+</p>
